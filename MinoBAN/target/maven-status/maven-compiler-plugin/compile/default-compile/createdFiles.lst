@@ -1,0 +1,8 @@
+mino\minoban\MinoBAN.class
+mino\minoban\events\QuitServerEvent.class
+mino\minoban\commands\OpenGuiCommand.class
+mino\minoban\events\GuiMenuEvent$1.class
+mino\minoban\events\JoinServerEvent.class
+mino\minoban\utils\FileUtil.class
+mino\minoban\events\GuiMenuEvent.class
+mino\minoban\commands\BanCommands.class

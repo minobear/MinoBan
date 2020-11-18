@@ -1,0 +1,12 @@
+name: MinoBAN
+version: 1.0
+main: mino.minoban.MinoBAN
+api-version: 1.8.8
+authors: [MINO]
+description: Using a GUI to ban player
+commands:
+  mb:
+    description: Using command to ban a player
+permissions:
+  minoban.admin:
+    description: Command allow

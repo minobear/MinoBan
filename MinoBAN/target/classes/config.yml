@@ -1,0 +1,39 @@
+ban-file: './plugins/MinoBAN/bans.txt'
+mute-file: './plugins/MinoBAN/mutes.txt'
+
+# Chat system
+chat-cooldown: 3
+cooldown-message: '&c訊息發送冷卻中, 請稍後再試!'
+chat-open-message: '&a已開啟聊天室'
+chat-close-message: '&c已關閉聊天室'
+chat-has-been-closed: '&c聊天室目前已被關閉!'
+
+# Ban message
+ban-title: '&b&l【MINO UHC】'
+ban-message: '&c你被伺服器封鎖了!'
+ban-reason: '&f原因: &6<reason>'
+ban-remaining: '&f剩餘時間: &e<time>'
+
+# Mute message
+mute-message: '&c你被禁言了, 無法發送訊息!'
+mute-reason: '&f原因: &6<reason>'
+mute-remaining: '&f剩餘時間: &e<time>'
+
+# Message language
+ban-broadcast: '&a<executor> &f已將 &c<banned player> &f封鎖 &e<time>&f! 原因: &6<reason>'
+unban-broadcast: '&a<executor> &f已將 &c<unban player> &f解除封鎖!'
+
+mute-broadcast: '&a<executor> &f已將 &c<muted player> &f禁言 &e<time>&f! 原因: &6<reason>'
+unmute-broadcast: '&a<executor> &f已將 &c<unmute player> &f解除禁言!'
+
+console-display: 'Console'
+unban-error: '&c這位玩家並沒有被封鎖'
+unmute-error: '&c這位玩家並沒有被禁言'
+no-permission: '&c你沒有權限使用此指令!'
+reload-complete: '&aMinoBan已重新載入完成!'
+
+day: '天'
+hour: '時'
+min: '分'
+sec: '秒'
+permanent: '永久'
